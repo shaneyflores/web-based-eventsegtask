@@ -1,0 +1,2 @@
+Targets	legos_target_1.png	legos_target_2.png	legos_target_3.png	legos_target_4.png
+Foils	legos_foil_easy_2.png	legos_foil_hard_2.png	legos_foil_hard_5.png	legos_foil_hard_7.png
